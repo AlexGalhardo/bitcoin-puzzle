@@ -61,7 +61,7 @@ async function findPrivateKey(startKeyHex: string, stopKeyHex: string) {
 		console.log(`...Testing address: ${address} -> balance: ${balance} BTC`);
 
 		currentKey++;
-		await delay(2000);
+		await delay(1000);
 	}
 }
 

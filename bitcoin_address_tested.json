@@ -1,0 +1,14 @@
+[
+  {
+    "public_key": "031238c0766eaebea9ce4068a1f594d03b8ed4930d072d9c8b9164643e1516e633",
+    "private_key": "0000000000000000000000000000000000000000000000040000000000000000",
+    "bitcoin_address": "19uudrspgKmjjS9uxZitTF89zNtGWX1ePm",
+    "balance": 0
+  },
+  {
+    "public_key": "0214dad36d4491f7f00db31f074bbc77ef19ec7245a4d81f8f5b25e3707ee4dd09",
+    "private_key": "0000000000000000000000000000000000000000000000040000000000000001",
+    "bitcoin_address": "1KhPExrvwJtXwYgEYMnbLaecGktw6zvAfH",
+    "balance": 0
+  }
+]

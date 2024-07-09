@@ -6,13 +6,16 @@ https://github.com/AlexGalhardo/xandyh-bitcoin-puzzle/assets/19540357/af1e18fc-0
 
 ## Introduction
 
-- A side simple script to verify bitcoin address with bitcoins as reward.
+- A simple script to verify bitcoin address with bitcoins as reward
 - References:
    - https://privatekeyfinder.io/bitcoin-puzzle/
    - https://www.youtube.com/watch?v=Ispg4D9_hv8
    - https://api.blockcypher.com/v1/btc/main/addrs/1H3yHoihwTpZRE3hfnhTky8e3PF5mjygUh/balance
 
 ## Development Setup Local
+
+Prerequisites:
+   - Install Bun: https://bun.sh/docs/installation
 
 1. Clone repository
 ```bash

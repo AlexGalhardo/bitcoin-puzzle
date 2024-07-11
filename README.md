@@ -23,7 +23,7 @@ Prerequisites:
 
 1. Clone repository
 ```bash
-git clone git@github.com:AlexGalhardo/xandyh-bitcoin-puzzle.git
+git clone git@github.com:AlexGalhardo/bitcoin-puzzle.git
 ```
 
 2. Enter repository

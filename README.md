@@ -1,16 +1,20 @@
 <div align="center">
- <h1 align="center"><a href="https://privatekeyfinder.io/bitcoin-puzzle/" target="_blank">Xandyh Bitcoin Puzzle</a></h1>
+ <h1 align="center"><a href="https://privatekeyfinder.io/bitcoin-puzzle/" target="_blank">Bitcoin Puzzle</a></h1>
 </div>
 
 https://github.com/AlexGalhardo/xandyh-bitcoin-puzzle/assets/19540357/af1e18fc-0015-446b-8dba-cb504a0fe0a4
 
 ## Introduction
 
-- A simple script to verify bitcoin address with bitcoins as reward
+- Simple scripts to learn more about bitcoin puzzle quest
 - References:
    - https://privatekeyfinder.io/bitcoin-puzzle/
    - https://www.youtube.com/watch?v=Ispg4D9_hv8
+   - https://www.youtube.com/watch?v=679Zc7ZQLtI
    - https://api.blockcypher.com/v1/btc/main/addrs/1H3yHoihwTpZRE3hfnhTky8e3PF5mjygUh/balance
+   - https://github.com/lmajowka/btcgo
+   - https://github.com/lmajowka/btc-finder
+   - https://github.com/albertobsd/keyhunt
 
 ## Development Setup Local
 
@@ -24,7 +28,7 @@ git clone git@github.com:AlexGalhardo/xandyh-bitcoin-puzzle.git
 
 2. Enter repository
 ```bash
-cd xandyh-bitcoin-puzzle/
+cd bitcoin-puzzle/
 ```
 
 3. Install dependencies
@@ -32,9 +36,14 @@ cd xandyh-bitcoin-puzzle/
 bun install
 ```
 
-4. Start script
+4. Creating bitcoin addresses
 ```bash
-bun start
+bun run create-bitcoin-addresses
+```
+
+5. Creating bitcoin addresses and checking balance
+```bash
+bun run create-and-check-balance
 ```
 
 ## License

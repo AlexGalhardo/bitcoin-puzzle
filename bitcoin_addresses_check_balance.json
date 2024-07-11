@@ -52,53 +52,5 @@
     "private_key": "0000000000000000000000000000000000000000000000040000000000000008",
     "bitcoin_address": "15CDDi2MBSMPgVTo8rEAP2YALLXAH2AwBG",
     "balance": 0
-  },
-  {
-    "public_key": "037df67644ff3baaef3166e7e0f4f9010429468349bab2d5372ae0a65f367d413b",
-    "private_key": "0000000000000000000000000000000000000000000000040000000000000009",
-    "bitcoin_address": "16C3EXMKigHbKfDx7C42wo9Pdd7yVZJCio",
-    "balance": 0
-  },
-  {
-    "public_key": "02e0c2a5295bba9bcbda2717505fbdb6134c9bddf341c7c24bc6bcd5f8f2084f68",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000a",
-    "bitcoin_address": "18cu6v42kGouKHQAtgqtZpuFgmB2j1PdMa",
-    "balance": 0
-  },
-  {
-    "public_key": "030bac22e74c2592dac236724b8a448629245220421b354c824e4d95b56d9d99cb",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000b",
-    "bitcoin_address": "13Z22dcFDk4DukJnCyVe9RdESd2KoVwYXz",
-    "balance": 0
-  },
-  {
-    "public_key": "037d1939dc4ebae283967024dc4cbfdd3ad6fa17852ada5f28d0f25240d6dd12d0",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000c",
-    "bitcoin_address": "1Gn2hCrshxWUav7j9Sgk2uXC5icx9e1ZqM",
-    "balance": 0
-  },
-  {
-    "public_key": "0293c2ca0374681fca71a219e16ea52e65434dc76ad2bb61638f8f75bc03ce11e2",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000d",
-    "bitcoin_address": "19mpjVD9Htt5HPRCRWgii1enVwWMBDuRyQ",
-    "balance": 0
-  },
-  {
-    "public_key": "0357b9a1e4ae662a10a19f7aad25e13d7aa9343c9ec086b401b6e727978a807237",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000e",
-    "bitcoin_address": "15G9E314sBkpiodCctZWViuU9ezh55zqBz",
-    "balance": 0
-  },
-  {
-    "public_key": "025f9661c5f10884428f5f90a95505916c16ea1bdd4cc8ee88dceabddae6b4e52a",
-    "private_key": "000000000000000000000000000000000000000000000004000000000000000f",
-    "bitcoin_address": "1PkS5jGwm4Nk5HWSriA82i9NzCeziGq2rb",
-    "balance": 0
-  },
-  {
-    "public_key": "027d9e443f32b799c017cd6896a7f1d775701c1a4ad6514fe536f369f506f23de9",
-    "private_key": "0000000000000000000000000000000000000000000000040000000000000010",
-    "bitcoin_address": "148vDbvXY6PZLEFKyhqs12VCLoxYSgW2dt",
-    "balance": 0
   }
 ]

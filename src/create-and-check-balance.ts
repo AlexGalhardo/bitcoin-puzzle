@@ -44,7 +44,7 @@ async function appendToJSONFile(filename: string, data: any) {
 async function findPrivateKey(startKeyHex: string, stopKeyHex: string) {
 	let currentKey = BigInt(`0x${startKeyHex}`);
 	const stopKey = BigInt(`0x${stopKeyHex}`);
-	const filename = "bitcoin_address_tested.json";
+	const filename = "bitcoin_addresses_check_balance.json";
 
 	while (currentKey <= stopKey) {
 		const currentKeyHex = currentKey.toString(16).padStart(64, "0");
@@ -58,7 +58,7 @@ async function findPrivateKey(startKeyHex: string, stopKeyHex: string) {
 		const data = { public_key: publicKey, private_key: privateKey, bitcoin_address: address, balance };
 		await appendToJSONFile(filename, data);
 
-		console.log(`...Testing address: ${address} -> balance: ${balance} BTC`);
+		console.log(`...Saving address: ${address}`);
 
 		currentKey++;
 		await delay(1000);

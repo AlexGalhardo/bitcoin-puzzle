@@ -1,7 +1,8 @@
 {
-	"name": "xandyh-bitcoin-puzzle",
+	"name": "bitcoin-puzzle",
 	"scripts": {
-		"start": "bun xandyh.ts",
+		"create-and-check-balance": "bun src/create-and-check-balance.ts",
+		"create-bitcoin-addresses": "bun src/create-bitcoin-addresses.ts",
 		"format": "prettier --write \"*.ts\""
 	},
 	"dependencies": {

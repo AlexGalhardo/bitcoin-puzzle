@@ -2,7 +2,7 @@
  <h1 align="center"><a href="https://privatekeyfinder.io/bitcoin-puzzle/" target="_blank">Bitcoin Puzzle</a></h1>
 </div>
 
-https://github.com/AlexGalhardo/xandyh-bitcoin-puzzle/assets/19540357/af1e18fc-0015-446b-8dba-cb504a0fe0a4
+https://github.com/AlexGalhardo/bitcoin-puzzle/assets/19540357/8e4f18ca-f321-4c67-a8ab-7f79d470d7ab
 
 ## Introduction
 

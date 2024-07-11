@@ -52,5 +52,23 @@
     "private_key": "0000000000000000000000000000000000000000000000040000000000000008",
     "bitcoin_address": "15CDDi2MBSMPgVTo8rEAP2YALLXAH2AwBG",
     "balance": 0
+  },
+  {
+    "public_key": "037df67644ff3baaef3166e7e0f4f9010429468349bab2d5372ae0a65f367d413b",
+    "private_key": "0000000000000000000000000000000000000000000000040000000000000009",
+    "bitcoin_address": "16C3EXMKigHbKfDx7C42wo9Pdd7yVZJCio",
+    "balance": 0
+  },
+  {
+    "public_key": "02e0c2a5295bba9bcbda2717505fbdb6134c9bddf341c7c24bc6bcd5f8f2084f68",
+    "private_key": "000000000000000000000000000000000000000000000004000000000000000a",
+    "bitcoin_address": "18cu6v42kGouKHQAtgqtZpuFgmB2j1PdMa",
+    "balance": 0
+  },
+  {
+    "public_key": "030bac22e74c2592dac236724b8a448629245220421b354c824e4d95b56d9d99cb",
+    "private_key": "000000000000000000000000000000000000000000000004000000000000000b",
+    "bitcoin_address": "13Z22dcFDk4DukJnCyVe9RdESd2KoVwYXz",
+    "balance": 0
   }
 ]
